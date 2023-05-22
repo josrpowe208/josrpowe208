@@ -1,6 +1,6 @@
 - Name: Joe Powell
 - Position: Bioinformatics and Systems Biology Ph.D. Candidate - Case Western Reserve University
-- Keywords: Statistics, Data Analysis, Machine Learning, R, Python, SQL, Bash, High-Throughput Analysis
+- Keywords: Machine Learning, Deep Learning, Statistics, Data Analysis, Neural Networks, R, Python, SQL, Bash, High-Throughput Analysis
 - Email: jrp208@case.edu
 - Phone: (720)-346-8504
 
