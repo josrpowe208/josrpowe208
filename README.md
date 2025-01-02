@@ -1,7 +1,7 @@
 - Name: Joe Powell
 - Position: Computational Biology Postdoctoral Associate - Weill Cornell Medicine
 - Keywords: Bioinformatics, Machine Learning, Deep Learning, Statistics, Data Analysis, Neural Networks, R, Python, SQL, Bash, Mojo, High-Throughput Analysis
-- Email: jrp208@case.edu
+- Email: jop4029@med.cornell.edu
 - Phone: (720)-346-8504
 
 <!---
